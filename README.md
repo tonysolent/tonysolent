@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonysolent
-- 👀 I’m interested in AI and VR
+- 👀 I’m interested in AI, VR and machine learning.
 - 🌱 I’m currently learning Java,Python,C++,R, Go and Kotlin
 - 💞️ I’m looking to collaborate with software developers
 - 📫 How to reach me follow me on my official github account. This is university use only. 
